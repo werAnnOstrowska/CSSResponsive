@@ -1,0 +1,62 @@
+MAM 5 nr projektu z serwisów
+
+
+
+
+
+
+
+<i class="fa-regular fa-circle-check"></i>
+
+<i class="fa-solid fa-angle-down"></i>
+
+<i class="fa-solid fa-arrow-right"></i>
+
+
+BACKGROUND 
+
+LIGHTBLUE HEX 27C0EF RGB 39 192 239
+
+DARKBLUE 00A8DB 0 168 219
+
+
+TEXT 
+
+NAVY 034d82 3 77 130
+GRAY 90A3B4 144 163 180
+LIGHTBLUE 04AADD 4 170 221
+
+
+CHECK 18B7E7 24 183 231
+
+
+LOGIN BTTN
+
+DARK 005490 0 84 144
+LIGHT 328BCB 50 139 203
+
+
+SECOND BLUE BACKGROUND
+EFFBFF 239 251 255
+
+
+
+FONTS 
+
+DM Sans 
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 1000
+
+.dm-sans-<uniquifier> {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
