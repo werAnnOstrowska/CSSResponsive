@@ -53,7 +53,7 @@ Animated carousel showing logos of popular brands, built with **CSS animation**:
 
 Elegant and smooth **button transitions on hover** using `transition` and `transform`:
 
-![Button Hover Effect](assetsReadMe/bbtns.gif)
+![Button Hover Effect](assetsReadMe/bttns.gif)
 
 ---
 
