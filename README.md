@@ -22,7 +22,7 @@ It was developed to replicate the functionality and style of the original design
 | Technology | Purpose |
 |------------|---------|
 | **HTML5**  | Page structure |
-| **CSS3**   | Layout, grid, responsiveness, effects |
+| **CSS3 & SCSS**   | Layout, grid, responsiveness, effects |
 | **Flexbox & Grid** | Content alignment and layout |
 | **Media Queries** | Mobile-first responsive design |
 | **CSS Animations** | Carousel and hover effects |
